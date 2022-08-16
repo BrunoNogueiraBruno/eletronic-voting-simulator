@@ -5,7 +5,7 @@ const chapas = require('./data/chapas.json')
 let votacao = {}
 let votantes = 0
 
-const TOTAL_VOTANTES = 6
+const TOTAL_VOTANTES = 8
 
 const options = {
     1: () => {
@@ -27,7 +27,8 @@ const options = {
 }
 
 const resultado = () => {
-    const candidatos = Object.values(votacao).sort((a, b) => a.votos > b.votos)
+    const candidatos = Object.values(votacao).sort((a, b) =>
+        a.votos > b.votos ? -1 : 1)
     const eleito = candidatos[0]
 
     const { representante, vice_representante } = chapas.find(({ numero }) => `${numero}` === eleito.numero)
