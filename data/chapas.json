@@ -1,0 +1,23 @@
+[
+    {
+        "nome_da_chapa": "uva",
+        "representante": "João",
+        "vice_representante": "Guilherme",
+        "numero": 1,
+        "votos": 0
+    },
+    {
+        "nome_da_chapa": "laranja",
+        "representante": "Maria",
+        "vice_representante": "Paulo",
+        "numero": 2,
+        "votos": 0
+    },
+    {
+        "nome_da_chapa": "melão",
+        "representante": "Carlos",
+        "vice_representante": "Júlia",
+        "numero": 3,
+        "votos": 0
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "fd94d229-3a0a-42c8-a968-e7a265176f37",
+        "nome": "João",
+        "votou": false
+    },
+    {
+        "_id": "f84a7594-783f-4278-a119-aa8d5429df37",
+        "nome": "Guilherme",
+        "votou": false
+    },
+    {
+        "_id": "8af6529e-bbdd-4d23-aa70-4e92012e9132",
+        "nome": "Maria",
+        "votou": false
+    },
+    {
+        "_id": "3ca1b841-1a07-4e83-b0a7-df3b89a29284",
+        "nome": "Paulo",
+        "votou": false
+    },
+    {
+        "_id": "2e0e6452-3cc7-4516-8906-680df6b32244",
+        "nome": "Carlos",
+        "votou": false
+    },
+    {
+        "_id": "f0e69b12-a3b0-49de-b432-715c51b00d2c",
+        "nome": "Júlia",
+        "votou": false
+    },
+    {
+        "_id": "13acc1e9-4ca3-46f8-b14f-a528978d5d9e",
+        "nome": "Gilberto",
+        "votou": false
+    },
+    {
+        "_id": "0641da24-3c3c-4676-9f92-a12851e6242f",
+        "nome": "Aline",
+        "votou": false
+    },
+    {
+        "_id": "73c7ebdd-53fd-4bb2-9319-794145676a7d",
+        "nome": "Mateus",
+        "votou": false
+    }
+]
